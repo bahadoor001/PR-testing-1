@@ -30,6 +30,6 @@ jobs:
       with:
          projectBaseDir: .
          args: >
-          -Dsonar.organization=bahadoor009
-          -Dsonar.projectKey=bahadoor009_github-actions-golang-test
+          -Dsonar.organization=bahadoor001
+          -Dsonar.projectKey=bahadoor001_PR-testing-1
 
